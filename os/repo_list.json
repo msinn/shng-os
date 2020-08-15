@@ -5,10 +5,6 @@
 			"url"  : "http://downloads.raspberrypi.org/os_list_v3.json"
 		},
 		{
-			"name" : "PINN",
-			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_all.json"
-		},
-		{
 			"name" : "MSinn",
 			"url"  : "http://raw.githubusercontent.com/msinn/shng-os/master/os/os_list_v3.json"
 		}
