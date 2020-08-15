@@ -74,6 +74,7 @@
             "nominal_size": 3955
         }
 
+,
         {
             "description": "A port of Debian with desktop and recommended applications",
             "download_size": 1492777304,
