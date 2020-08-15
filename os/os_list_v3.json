@@ -4,7 +4,7 @@
           "description": "A port of Debian with no desktop environment (msinn)",
           "download_size": 258296084,
           "feature_level": 35120124,
-          "icon": "http://downloads.raspberrypi.org/raspios_lite_armhf/Raspberry_Pi_OS_Lite_(32-bit).png",
+          "icon": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_lite_armhf/logo_small_35x35_blau.png",
           "marketing_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/marketing.tar",
           "nominal_size": 1676,
           "os_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/os.json",
