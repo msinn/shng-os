@@ -101,12 +101,12 @@
               {
                 "name": "lineage",
                 "description": "Lineage OS (KonstaKANG) 7.1.2 Nougat for RPI3",
-                "icon":       "http://downloads.sourceforge.net/project/pinn/files/os/lineage16-rpi4/lineage16-rpi4.png"
+                "icon":       "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_lite_armhf/logo_small_35x35_blau.png"
               },
               {
                 "name": "lineage - touchscreen",
                 "description": "Lineage OS 7.1.2 for RPF 7 inch touchscreen",
-                "icon":        "http://downloads.sourceforge.net/project/pinn/files/os/lineage/lineage.png"
+                "icon":       "http://raw.githubusercontent.com/msinn/shng-os/master/os/logo_small_35x35_grau.png"
               },
               {
                 "name": "lineage - waveshare",
