@@ -1,12 +1,12 @@
 {
 	"repo_list" : [
 		{
-			"name" : "NOOBS",
-			"url"  : "http://downloads.raspberrypi.org/os_list_v3.json"
-		},
-		{
 			"name" : "MSinn",
 			"url"  : "http://raw.githubusercontent.com/msinn/shng-os/master/os/os_list_v3.json"
+		},
+		{
+			"name" : "NOOBS",
+			"url"  : "http://downloads.raspberrypi.org/os_list_v3.json"
 		}
 	]
 }
