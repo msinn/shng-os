@@ -28,7 +28,7 @@
         },
 
         {
-            "description": "A port of Debian with the Raspberry Pi Desktop",
+            "description": "A port of Debian with the Raspberry Pi Desktop (msinn)",
             "download_size": 801462256,
             "feature_level": 35120124,
             "icon": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_armhf/logo_small_35x35_blau.png",
