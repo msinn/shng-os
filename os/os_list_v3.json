@@ -1,11 +1,11 @@
 {
   "os_list" : [
         {
-            "os_name": "kali1",
+            "os_name": "kali1ms",
             "description": "Kali Linux v2.1.2 for RPI1 (msinn)",
             "release_date": "2016-08-31",
             "feature_level": 35644412,
-            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
@@ -30,11 +30,11 @@
 
 ,
         {
-            "os_name":	    "lineage",
+            "os_name":	    "lineagems",
             "description":  "Lineage OS (KonstaKANG) 7.1.2 Nougat for RPI3 (msinn)",
             "release_date": "2017-11-17",
             "feature_level": 0,
-            "supported_hex_revisions": "2082",    
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
