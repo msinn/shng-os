@@ -118,7 +118,7 @@
             "group":           "General",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage/lineage.png",
+            "icon":            "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_lite_armhf/logo_small_35x35_blau.png",
             "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage/marketing.tar",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage/partition_setup.sh",
             "tarballs": [
@@ -129,3 +129,4 @@
         }
   ]
 }
+
