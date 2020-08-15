@@ -101,7 +101,7 @@
               {
                 "name": "lineage",
                 "description": "Lineage OS (KonstaKANG) 7.1.2 Nougat for RPI3",
-                "icon":       "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_lite_armhf/logo_small_35x35_blau.png"
+                "icon":       "http://raw.githubusercontent.com/msinn/shng-os/master/os/logo_small_35x35_grau.png"
               },
               {
                 "name": "lineage - touchscreen",
@@ -111,7 +111,7 @@
               {
                 "name": "lineage - waveshare",
                 "description": "Lineage OS 7.1.2 for Waveshare 7 inch HDMI LCD",
-                "icon":        "http://downloads.sourceforge.net/project/pinn/files/os/lineage/lineage.png"
+                "icon":       "http://raw.githubusercontent.com/msinn/shng-os/master/os/logo_small_35x35_grau.png"
               }
             ],
             "url":             "http://konstakang.com/devices/rpi3/CM14.1/",
