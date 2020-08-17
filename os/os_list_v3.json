@@ -48,6 +48,22 @@
                 "Pi Compute Module 3",
                 "Pi 4"
             ],
+            "flavours": [
+              {
+                "name": "Raspbian_ShNG",
+                "description": "A port of Debian with the Raspberry Pi Desktop with installed SmarHomeNG",
+                "url": "http://www.smarthomeng.de/"
+                "icon":       "http://raw.githubusercontent.com/msinn/shng-os/master/os/logo_small_35x35_grau.png"
+              },
+              {
+                "name": "Raspbian_shNGDev",
+                "description": "A Pi-Kitchen creation under development"
+              },
+              {
+                "name": "Raspbian_X",
+                "description": "A port of Debian with the Raspberry Pi Desktop"
+              }  
+            ],
             "tarballs": [
                 "http://downloads.raspberrypi.org/raspios_armhf/boot.tar.xz",
                 "http://downloads.raspberrypi.org/raspios_armhf/root.tar.xz"
