@@ -58,10 +58,12 @@
               {
                 "name": "Raspbian_shNGDev",
                 "description": "A Pi-Kitchen creation under development"
+                "icon": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_armhf/shng/logo_small_35x35_grau.png"
               },
               {
                 "name": "Raspbian_X",
-                "description": "A port of Debian with the Raspberry Pi Desktop"
+                "description": "A port of Debian with the Raspberry Pi Desktop",
+                "icon": "http://downloads.raspberrypi.org/raspios_full_armhf/Raspberry_Pi_OS_(32-bit).png"
               }  
             ],
             "tarballs": [
