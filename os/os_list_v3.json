@@ -57,7 +57,7 @@
               },
               {
                 "name": "Raspbian_shNGDev",
-                "description": "A Pi-Kitchen creation under development"
+                "description": "A Pi-Kitchen creation under development",
                 "icon": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_armhf/shng/logo_small_35x35_grau.png"
               },
               {
