@@ -1,0 +1,11 @@
+#Noobs config file for RaspbianShNG_root (DateOfEdit)
+#------------------------------------------------------
+#Format is: filename destination attributes user group
+
+#Copy the Noobs config txt files to home directory for reference
+Raspbian_ShNG_root.txt /home/pi 0644 pi pi
+shng/inst_shng.sh /home/pi 0755 pi pi
+shng/rc.local /etc 0755
+
+#------------------------------------------------------
+#End
