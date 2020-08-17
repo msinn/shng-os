@@ -32,7 +32,7 @@
             "download_size": 801462256,
             "feature_level": 35120124,
             "icon": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_armhf/logo_small_35x35_blau.png",
-            "marketing_info": "http://downloads.raspberrypi.org/raspios_armhf/marketing.tar",
+            "marketing_info": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_armhf/shng/shng_marketing.tar",
             "nominal_size": 3226,
             "os_info": "http://downloads.raspberrypi.org/raspios_armhf/os.json",
             "os_name": "Raspberry Pi OS (32-bit)",
@@ -53,7 +53,7 @@
                 "name": "Raspbian_ShNG",
                 "description": "A port of Debian with the Raspberry Pi Desktop with installed SmarHomeNG",
                 "url": "http://www.smarthomeng.de/",
-                "icon": "http://raw.githubusercontent.com/msinn/shng-os/master/os/logo_small_35x35_grau.png"
+                "icon": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_armhf/shng/logo_small_35x35_blau.png"
               },
               {
                 "name": "Raspbian_shNGDev",
