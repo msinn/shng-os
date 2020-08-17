@@ -63,7 +63,7 @@
               {
                 "name": "Raspbian_X",
                 "description": "A port of Debian with the Raspberry Pi Desktop",
-                "icon": "http://downloads.raspberrypi.org/raspios_full_armhf/Raspberry_Pi_OS_(32-bit).png"
+                "icon": "http://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png"
               }  
             ],
             "tarballs": [
