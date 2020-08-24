@@ -2,11 +2,11 @@
   "os_list" : [
         {
             "description": "A port of Debian without desktop environment (msinn)",
-            "download_size": 801462256,
+            "download_size": 258296084,
             "feature_level": 35120124,
             "icon": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_armhf/logo_small_35x35_blau.png",
             "marketing_info": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_armhf/shng/shng_marketing.tar",
-            "nominal_size": 3226,
+            "nominal_size": 1676,
             "os_info": "http://downloads.raspberrypi.org/raspios_armhf/os.json",
             "os_name": "Raspberry Pi OS (32-bit)",
             "partition_setup": "http://downloads.raspberrypi.org/raspios_armhf/partition_setup.sh",
@@ -54,11 +54,11 @@
 
         {
           "description": "A port of Debian with the Raspberry Pi Desktop (msinn)",
-          "download_size": 258296084,
+          "download_size": 801462256,
           "feature_level": 35120124,
           "icon": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_lite_armhf/logo_small_35x35_blau.png",
           "marketing_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/marketing.tar",
-          "nominal_size": 1676,
+          "nominal_size": 3226,
           "os_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/os.json",
           "os_name": "Raspberry Pi OS Lite (32-bit) (msinn)",
           "partition_setup": "http://downloads.raspberrypi.org/raspios_lite_armhf/partition_setup.sh",
