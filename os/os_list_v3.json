@@ -42,7 +42,7 @@
               },  
               {
                 "name": "RaspPiOS_lite_unchanged",
-                "description": "A port of Debian with no desktop environment"
+                "description": "A port of Debian with no desktop environment",
                 "icon": "http://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png"
               }  
             ],
