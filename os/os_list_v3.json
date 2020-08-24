@@ -1,7 +1,7 @@
 {
   "os_list" : [
         {
-            "description": "A port of Debian with the Raspberry Pi Desktop (msinn)",
+            "description": "A port of Debian without desktop environment (msinn)",
             "download_size": 801462256,
             "feature_level": 35120124,
             "icon": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_armhf/logo_small_35x35_blau.png",
@@ -53,7 +53,7 @@
         },
 
         {
-          "description": "A port of Debian with desktop environment (msinn)",
+          "description": "A port of Debian with the Raspberry Pi Desktop (msinn)",
           "download_size": 258296084,
           "feature_level": 35120124,
           "icon": "http://raw.githubusercontent.com/msinn/shng-os/master/os/raspios_lite_armhf/logo_small_35x35_blau.png",
